@@ -1,6 +1,8 @@
 {
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/sbx/dash/page": "app/sbx/dash/page.js"
+  "/sbx/dash/page": "app/sbx/dash/page.js",
+  "/sbx/clean-base/page": "app/sbx/clean-base/page.js",
+  "/sbx/dash-base/page": "app/sbx/dash-base/page.js",
+  "/sbx/side-test/page": "app/sbx/side-test/page.js"
 }

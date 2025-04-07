@@ -20,6 +20,21 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/sbx/dash/page.js"
+    ],
+    "/sbx/clean-base/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sbx/clean-base/page.js"
+    ],
+    "/sbx/dash-base/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sbx/dash-base/page.js"
+    ],
+    "/sbx/side-test/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sbx/side-test/page.js"
     ]
   }
 }
